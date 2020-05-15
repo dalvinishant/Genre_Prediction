@@ -1,1 +1,4 @@
 npm i react-bootstrap boostrap
+npm install @material-ui/core
+npm i react-lottie
+npm i axios

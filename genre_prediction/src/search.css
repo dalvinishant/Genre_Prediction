@@ -80,6 +80,15 @@ html, body {
   border-collapse: collapse;
 }
 
+.btn:focus {
+  box-shadow: none;
+}
+
+.btn-primary{
+  border-color:#03DAC6 !important;
+}
+
+
 .leftpane {
   width: 30% !important;
   height: 100%;
